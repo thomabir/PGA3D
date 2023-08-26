@@ -1,4 +1,5 @@
 # PGA3D
+
 3D Projective Geometric Algebra in C++.
 
 ## Install & use
@@ -9,14 +10,6 @@ To run the example:
 g++ demo.cpp PGA3D.cpp -o demo
 ./demo
 ```
-
-To run the tests:
-
-```sh
-g++ test.cpp PGA3D.cpp -o test
-./test
-```
-
 
 ## Implementation
 
