@@ -7,8 +7,8 @@
 To run the example:
 
 ```sh
-g++ demo.cpp PGA3D.cpp -o demo.o
-./demo.o
+g++ demo.cpp PGA3D.cpp -o demo.out
+./demo.out
 ```
 
 ## Implementation
